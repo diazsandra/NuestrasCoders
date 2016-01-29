@@ -1,6 +1,14 @@
+* {
+	background-image: url(http://38.media.tumblr.com/e119f1eacc96357f667597e1fd6892da/tumblr_nokzt8XKFD1tg5w5co1_500.gif); 
+}
+
+h1 {
+	color: white;
+} 
+
 hr {
  	size: 2px;
- 	color: black;
+ 	color: white;
  	width: 15%;
  	margin: 0px;
  	border: solid 2px;
